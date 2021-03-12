@@ -7,6 +7,7 @@ import phone from './phone.png'
 const Formu: React.FC = () => {
   return (
     <>
+    
       {/* IMAGEM IPHONE */}
       <section className="images">
         <img src={phone} alt="celular"/>
