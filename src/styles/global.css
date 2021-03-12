@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+input,
+button,
+h1,
+p,
+text {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+}
+
+body {
+  background-color: #222831;
+  color: #eee;
+  display: flex;
+  min-height: 100vh;
+  min-width: 100vw;
+}
